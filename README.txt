@@ -26,11 +26,6 @@ Follow in Twitter
 
 * htp://twitter.com/moo9000
 
-Source code and issue tracking
------------------------------------
-
-The project is hosted at `Google Code project repository <http://code.google.com/p/plonegomobile>`_.
-
 Commercial support and development
 -----------------------------------
 
@@ -41,6 +36,20 @@ are available from Web and Mobile web site.
 
 Our top class Python developers are ready to help you with 
 any software development needs.
+
+Supported configurations
+-------------------------
+
+This add-on is tested with 
+
+* Plone 4.0.1
+
+* Plone 3.3.5 (all features are not availble)
+
+Source code and issue tracking
+-----------------------------------
+
+The project is hosted at `Google Code project repository <http://code.google.com/p/plonegomobile>`_.
   
 Author
 ------
