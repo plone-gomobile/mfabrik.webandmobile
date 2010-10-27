@@ -12,8 +12,8 @@ For more information, visit `mFabrik Web and Mobile web site <http://webandmobil
 Installation and usage
 ----------------------
 
-Please refer to `Web and Mobile documentation <http://webandmobile.mfabrik.com/docs/web-and-mobile/user-manual/installation#installation-of-fresh-site>`
-installation instructions_.
+Please refer to `Web and Mobile documentation <http://webandmobile.mfabrik.com/docs/web-and-mobile/user-manual/installation#installation-of-fresh-site>`_
+installation instructions.
 
 Follow
 ---------------
@@ -24,7 +24,7 @@ Join discussion
 
 Follow in Twitter
 
-* htp://twitter.com/moo9000
+* http://twitter.com/moo9000
 
 Commercial support and development
 -----------------------------------
@@ -44,7 +44,7 @@ This add-on is tested with
 
 * Plone 4.0.1
 
-* Plone 3.3.5 (all features are not availble)
+* Plone 3.3.5 (all features are not available)
 
 Source code and issue tracking
 -----------------------------------
