@@ -1,6 +1,11 @@
 Changelog
 =========
 
+0.9.1
+-------------------
+
+- Fixed dependency issues [miohtama]
+
 0.9
 -------------------
 
