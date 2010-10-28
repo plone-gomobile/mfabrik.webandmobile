@@ -5,7 +5,7 @@ version = '0.9.1'
 
 setup(name='mfabrik.webandmobile',
       version=version,
-      description="Mobile and multichannel content management for Plont",
+      description="Mobile and multichannel content management for Plone",
       long_description=open("README.txt").read() + "\n" +
                        open(os.path.join("docs", "HISTORY.txt")).read(),
       # Get more strings from

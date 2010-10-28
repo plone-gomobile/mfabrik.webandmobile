@@ -1,6 +1,12 @@
 Changelog
 =========
 
+0.9.2
+-------------------
+
+- Fixed description in PyPi [miohtama]
+
+
 0.9.1
 -------------------
 
