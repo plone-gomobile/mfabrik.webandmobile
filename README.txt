@@ -7,7 +7,7 @@ mFabrik Web and Mobile is an add-on product which
 turns `Plone <http://plone.org>`_ to a 
 multichannel web and mobile content management system.
 
-.. image :: http://plonegomobile.googlecode.com/svn/gomobile.docs/trunk/gomobile/docs/manual/graphics/firstpage_image.png
+.. image :: http://plonegomobile.googlecode.com/svn/gomobile.docs/trunk/gomobile/docs/manual/graphics/firstpage_image_transparent_small.png
         :align: center
         :target: http://webandmobile.mfabrik.com
         :alt: Mobile content management system
@@ -67,7 +67,7 @@ The project is hosted at `Google Code project repository <http://code.google.com
 Author
 ------
 
-`mFabrik Research Oy <mailto:info@mfabrik.com>`_ - Python and Plone professionals for hire.
+`mFabrik Research Oy <mailto:research@mfabrik.com>`_ - Python and Plone professionals for hire.
 
 * `mFabrik Web and Mobile - multichannel CMS made easy <http://webandmobile.mfabrik.com>`_ 
 
