@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 import os
 
-version = '0.9.3'
+version = '1.0.0'
 
 setup(name='mfabrik.webandmobile',
       version=version,
@@ -14,7 +14,7 @@ setup(name='mfabrik.webandmobile',
         "Framework :: Plone",
         "Programming Language :: Python",
         ],
-      keywords='plone cms multichannel mobile publishing',
+      keywords='plone cms multichannel mobile publishing app applications iphone android nokia blackberry',
       author='mFabrik Research Oy',
       author_email='research@mfabrik.com',
       url='http://webandmobile.mfabrik.com',
@@ -26,7 +26,7 @@ setup(name='mfabrik.webandmobile',
       install_requires=[
           'setuptools',
           'pywurfl==6.4.1b',          
-          'mobile.sniffer==0.9.3',
+          'mobile.sniffer==1.0.0',
           'mobile.heurestics==0.9',
           'mobile.htmlprocessing==0.9.1',
           'mfabrik.behaviorutilities==0.1.1',
