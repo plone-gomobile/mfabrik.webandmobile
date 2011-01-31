@@ -1,6 +1,11 @@
 Changelog
 =========
 
+Current
+-------
+
+- Uninstall cleanly
+
 0.9.3
 -------------------
 
