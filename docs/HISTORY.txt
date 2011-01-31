@@ -1,6 +1,11 @@
 Changelog
 =========
 
+1.0.1
+-----
+
+- Fixed dependency version pindows... now installs correctly
+
 1.0.0
 -------
 
@@ -13,6 +18,7 @@ Changelog
 - Lots of bug fixes 
 
 - Updated Wurfl handset database
+
 
 0.9.3
 -------------------
