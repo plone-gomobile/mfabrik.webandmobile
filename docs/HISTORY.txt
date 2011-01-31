@@ -1,10 +1,18 @@
 Changelog
 =========
 
-Current
+1.0.0
 -------
 
 - Uninstall cleanly
+
+- Fixed Back button on preview
+
+- Fixed Home tab on Plone 4
+
+- Lots of bug fixes 
+
+- Updated Wurfl handset database
 
 0.9.3
 -------------------
