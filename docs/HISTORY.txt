@@ -1,6 +1,13 @@
 Changelog
 =========
 
+1.0.2
+-------
+
+- Style fixes for the default theme
+
+- Allow overriding favicon and Apple touch icon more easily
+
 1.0.1
 -----
 
