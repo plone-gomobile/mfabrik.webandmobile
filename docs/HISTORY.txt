@@ -1,6 +1,13 @@
 Changelog
 =========
 
+1.0.3
+--------
+
+- Plone 4.1 / Dexterity 1.0 compatibile 
+
+- Removed unneeded "uninstall" entry in Add-on list
+
 1.0.2
 -------
 
