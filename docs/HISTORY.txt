@@ -1,6 +1,22 @@
 Changelog
 =========
 
+1.0.4
+-------
+
+* Fixed handling of https images [miohtama]
+
+* Removed LocationManager warning message which was unneededly triggered on sites where
+  no gomobile.mobile was installed [miohtama, duffyd]
+
+* Don't choke on empty HTML documents when trying to preprocess images [miohtama]
+
+* Plone 4 compatible content-core fill-slot in main-template. May mess up existing theme
+  customizations [miohtama]
+
+* Fixed mtool look-up compatibility between Plone versions [miohtama]
+
+
 1.0.3
 --------
 
