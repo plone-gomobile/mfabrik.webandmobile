@@ -1,6 +1,11 @@
 Changelog
 =========
 
+1.0.7
+--------
+
+* Fixed too verbose no mobile_properties available warning in Plone logs [miohtama]
+
 1.0.6
 -------
 
