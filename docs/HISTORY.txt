@@ -1,11 +1,19 @@
 Changelog
 =========
 
+1.0.9
+--------
+
+* Resizer mercifully handle remote image resizes with bad HTTP responses [miohtama]
+
+* lxml workarounds when used with Products.feedfeeder [miohtama]
+
+* Author info updates [miohtama]
+
 1.0.8
 --------
 
 * Fixed bad version bump of gomobile.mobile [miohtama]
-
 
 1.0.7
 --------
