@@ -1,6 +1,11 @@
 Changelog
 =========
 
+1.0.10
+--------
+
+* Properly uninstall overridden document snippets (title, description)  [miohtama]
+
 1.0.9
 --------
 

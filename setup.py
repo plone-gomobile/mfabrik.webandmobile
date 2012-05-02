@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 import os
 
-version = '1.0.9'
+version = '1.0.10'
 
 setup(name='mfabrik.webandmobile',
       version=version,
@@ -31,7 +31,7 @@ setup(name='mfabrik.webandmobile',
           'mobile.htmlprocessing==1.0.0',
           'mfabrik.behaviorutilities==0.1.1',
           'gomobile.mobile==1.0.4',
-          'gomobile.convergence==1.0.1',
+          'gomobile.convergence==1.0.2',
           'gomobile.supporter==0.9.3',
           'gomobiletheme.basic==1.0.3',
           'gomobile.imageinfo==0.9.1',
