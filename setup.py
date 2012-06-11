@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 import os
 
-version = '1.0.10'
+version = '1.0.11'
 
 setup(name='mfabrik.webandmobile',
       version=version,
@@ -25,7 +25,7 @@ setup(name='mfabrik.webandmobile',
       zip_safe=False,
       install_requires=[
           'setuptools',
-          'pywurfl==6.4.1b',          
+          'pywurfl==6.4.1b',
           'mobile.sniffer==1.0.0',
           'mobile.heurestics==0.9',
           'mobile.htmlprocessing==1.0.0',
