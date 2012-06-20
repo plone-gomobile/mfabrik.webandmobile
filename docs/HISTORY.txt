@@ -7,6 +7,12 @@ Changelog
 - Fixed broken released eggs [miohtama], see https://github.com/zestsoftware/zest.releaser/issues/10
 
 
+1.0.13 (unreleased)
+-------------------
+
+- Nothing changed yet.
+
+
 1.0.12 (2012-06-20)
 -------------------
 
