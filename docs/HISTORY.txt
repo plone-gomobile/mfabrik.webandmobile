@@ -1,7 +1,7 @@
 Changelog
 =========
 
-1.0.14 (unreleased)
+1.0.13 (2012-08-14)
 -------------------
 
 - Handle external image resize in more fashioned manner [miohtama]
@@ -11,9 +11,6 @@ Changelog
 - Tests now run on Plone 4.2 [miohtama]
 
 - Added Plone 4.2 example buildout.cfg [miohtama]
-
-1.0.13 (unreleased)
--------------------
 
 - Fixed broken released eggs [miohtama], see https://github.com/zestsoftware/zest.releaser/issues/10
 
