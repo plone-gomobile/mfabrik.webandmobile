@@ -1,17 +1,21 @@
 Changelog
 =========
 
-1.0.12
+1.0.14 (unreleased)
 -------------------
 
-- Fixed broken released eggs [miohtama], see https://github.com/zestsoftware/zest.releaser/issues/10
+- Handle external image resize in more fashioned manner [miohtama]
 
+- Fixed: in mobile website the access to public content in a private container is forbidden [vmaksymiv]
+
+- Tests now run on Plone 4.2 [miohtama]
+
+- Added Plone 4.2 example buildout.cfg [miohtama]
 
 1.0.13 (unreleased)
 -------------------
 
-- Nothing changed yet.
-
+- Fixed broken released eggs [miohtama], see https://github.com/zestsoftware/zest.releaser/issues/10
 
 1.0.12 (2012-06-20)
 -------------------
