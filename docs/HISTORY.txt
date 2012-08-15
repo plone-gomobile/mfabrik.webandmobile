@@ -1,6 +1,11 @@
 Changelog
 =========
 
+1.0.14 (unreleased)
+-------------------
+
+- Bumped gomobiletheme.basic to 1.0.9 after some PyPi issues [miohtama]
+
 1.0.13 (2012-08-14)
 -------------------
 
