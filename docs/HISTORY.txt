@@ -1,7 +1,7 @@
 Changelog
 =========
 
-1.0.14 (unreleased)
+1.0.15 (2015-03-14)
 -------------------
 
 - More flexibile in dependencies [sureshvv]
