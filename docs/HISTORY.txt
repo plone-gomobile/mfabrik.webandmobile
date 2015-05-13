@@ -4,7 +4,7 @@ Changelog
 1.0.16 (unreleased)
 -------------------
 
-- Nothing changed yet.
+- More flexibile in dependencies [sureshvv]
 
 
 1.0.15 (2015-03-14)

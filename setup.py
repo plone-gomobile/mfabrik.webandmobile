@@ -33,7 +33,7 @@ setup(name='mfabrik.webandmobile',
           'gomobile.mobile>=1.0.5',
           'gomobile.convergence>=1.0.2',
           'gomobile.supporter==0.9.3',
-          'gomobiletheme.basic==1.0.9',
+          'gomobiletheme.basic>=1.0.9',
           'gomobile.imageinfo==0.9.3',
           # -*- Extra requirements: -*-
       ],
